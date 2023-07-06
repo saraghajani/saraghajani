@@ -1,16 +1,27 @@
-### Hi there 👋
+[![MasterHead](data:image/png;base64,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)
+<h1 align="center">Hi 👋, I'm Sara</h1>
+<h3 align="center">A passionate backend developer from India</h3>
+<img align="right" alt="Coding" width="400" src="2wCEAAoHCBYWFRgVFhYYGRgaGhgYGhoYGhgYGBgaGBoaGhgYGBgcIS4lHB4rIRgYJjgmKy8xNTU1GiQ7QDs0Py40NTEBDAwMEA8QGhESGDQhISExNDQxNDQxNDQ0NDQ0NDQ0NDQ0MTQxNDQ0NDQ0ND80NDQ0NDQ0NDQ0ND80NDQ0NDE0Mf">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saraghajani&label=Profile%20views&color=0e75b6&style=flat" alt="saraghajani" /> </p>
 
-<!--
-**saraghajani/saraghajani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **my website**
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Django**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about **Python**
+
+- 📫 How to reach me **aghajanisara99@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/sara-aghajani-afghan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sara-aghajani-afghan" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saraghajani&show_icons=true&locale=en&layout=compact" alt="saraghajani" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saraghajani&show_icons=true&locale=en" alt="saraghajani" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saraghajani&" alt="saraghajani" /></p>
